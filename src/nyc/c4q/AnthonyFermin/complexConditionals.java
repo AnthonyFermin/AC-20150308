@@ -1,6 +1,7 @@
 package nyc.c4q.AnthonyFermin;
 
-/**
+/**Anthony Fermin
+ *
  * Created by c4q-anthonyf on 3/8/15.
  */
 import java.util.Scanner;
